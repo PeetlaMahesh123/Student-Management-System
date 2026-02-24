@@ -9,7 +9,7 @@ This project demonstrates practical implementation of **core Java, GUI developme
 
 ---
 
-
+## 🛠️ Technologies Used
 
 * **Java (Core Java)**
 * **Swing & JFrame** – GUI development
