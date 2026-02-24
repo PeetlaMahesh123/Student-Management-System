@@ -1,6 +1,6 @@
 # 🎓 Student Management System (Java Desktop Application)
 
-
+## 📌 Project Overview
 
 The **Student Management System** is a Java-based desktop application developed using **Swing and JFrame** for the user interface and **JDBC** for database connectivity.
 It allows administrators to efficiently manage student records such as adding, updating, viewing, and deleting student information using an SQL database.
