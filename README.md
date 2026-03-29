@@ -8,14 +8,7 @@ It allows administrators to efficiently manage student records such as adding, u
 This project demonstrates practical implementation of **core Java, GUI development, and database integration**, making it suitable for academic and fresher-level portfolios.
 
 ---
-## 🛠️ Technologies Used
 
-* **Java (Core Java)**
-* **Swing & JFrame** – GUI development
-* **WindowBuilder** – UI design
-* **JDBC (Java Database Connectivity)**
-* **SQL Database (MySQL)**
-* **Eclipse IDE**
 
 
 ---
