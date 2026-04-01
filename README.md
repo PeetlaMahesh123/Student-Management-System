@@ -28,8 +28,29 @@ This project demonstrates practical implementation of **core Java, GUI developme
 
 
 ---
+## 🗂️ Project Structure
 
-
+```
+StudentManagementSystem/
+│
+├── src/
+│   ├── dao/
+│   │   └── StudentDAO.java
+│   ├── model/
+│   │   └── Student.java
+│   ├── ui/
+│   │   ├── AddStudentFrame.java
+│   │   ├── ViewStudentFrame.java
+│   │   ├── UpdateStudentFrame.java
+│   │   └── DeleteStudentFrame.java
+│   └── util/
+│       └── DBConnection.java
+│
+├── database/
+│   └── student_db.sql
+│
+├── README.md
+```
 
 ---
 
