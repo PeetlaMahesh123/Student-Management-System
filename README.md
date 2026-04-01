@@ -17,7 +17,14 @@ This project demonstrates practical implementation of **core Java, GUI developme
 * **Eclipse IDE**
 
 ---
+## ✨ Features
 
+* Add new student records
+* View all student details
+* Update existing student information
+* Delete student records
+* User-friendly graphical interface
+* Real-time database operations using JDBC
 
 
 ---
